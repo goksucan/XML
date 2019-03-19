@@ -1,0 +1,226 @@
+<catalogue>
+    <book>
+        <title> Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions </title>
+        <author>  Bruce Hanington </author>
+        <author>  Bella Martin </author>
+        <publisher> Rockport Publisher </publisher>
+        <isbn> 978-1592537563 </isbn>
+        <date> 2012 </date>
+        <price> 40 </price>
+        <url> https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561 </url>
+    </book>
+       <book>
+       <title>Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design</title>
+           <edition>2nd</edition>
+        <author>William Lidwell   </author>
+        <author>Kritina Holden  </author>
+        <author>Jill Butler   </author>
+        <publisher>Rockport Publisher</publisher>
+        <isbn>978-1592535873  </isbn>
+        <date>2010 </date>
+        <price>30</price>
+        <url>https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879</url>
+        </book>
+        
+    <book>
+       <title>East Asia: A Cultural, Social, and Political History</title>
+        <author>Patricia Buckley Ebrey  </author>
+        <author>Anne Walthall </author>
+        <edition>3rd</edition>
+        <publisher> Cengage Learning</publisher>
+        <isbn>978-1133606475  </isbn>
+        <date>2013 </date>
+        <price>199,95</price>
+        <url>https://www.amazon.com/East-Asia-Cultural-Political-History/dp/1133606474/</url>
+        </book>
+
+        <book>
+       <title>Debating the Future of the ‘Responsibility to Protect’: The Evolution of a Moral Norm</title>
+        <author>Pinar Gözen Ercan  </author>
+        <edition>1st</edition>
+        <publisher>Palgrave Macmillan</publisher>
+        <isbn>978-1137524263  </isbn>
+        <date>2016 </date>
+        <price>109,99</price>
+        <url>https://www.amazon.com/Debating-Future-Responsibility-Protect-Evolution/dp/113752426X/</url>
+        </book>
+    
+        <book>
+       <title>Web Scraping with Python: Collecting More Data from the Modern Web</title>
+        <author>Ryan Mitchell </author>
+        <edition>2nd</edition>
+        <publisher>O'Reilly Media</publisher>
+        <isbn>978-1491985571  </isbn>
+        <date> 2018 </date>
+        <price>39,99</price>
+        <url>https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577/</url>
+        </book>
+    
+        <book>
+       <title>Cuteness Engineering: Designing Adorable Products and Services </title>
+        <author>Aaron Marcus</author>
+        <author>Masaaki Kurosu</author>
+        <author>Xiaojuan Ma</author>
+        <author>Ayako Hashizume</author>
+        <publisher>Springer</publisher>
+        <isbn>978-3319872001  </isbn>
+        <date>2018 </date>
+        <price>139,99</price>
+        <url>https://www.amazon.com/Cuteness-Engineering-Designing-Adorable-Computing/dp/3319872001/</url>
+        </book>
+    
+        <book>
+       <title>Data Science Thinking: The Next Scientific, Technological and Economic Revolution</title>
+        <author>Longbing Cao   </author>
+        <publisher>Springer</publisher>
+        <isbn>978-3030069759  </isbn>
+        <date>2019 </date>
+        <price>69,99</price>
+        <url>https://www.amazon.com/Data-Science-Thinking-Scientific-Technological/dp/3030069753</url>
+        </book>
+    
+        <book>
+       <title>A Companion to Chinese Art</title>
+        <author>Martin J. Powers</author>
+        <author>Katherine R. Tsiang</author>
+        <publisher> Wiley-Blackwell</publisher>
+        <isbn>978-1444339130  </isbn>
+        <date>2015 </date>
+        <price>195</price>
+        <url>https://www.amazon.com/Companion-Chinese-Blackwell-Companions-History/dp/1444339133/</url>
+        </book>
+    
+        <book>
+       <title>Simülakrlar ve Simülasyon</title>
+        <author>Jean Baudrillard  </author>
+        <publisher>Doğu Batı Yayınları</publisher>
+        <isbn>9789758717019  </isbn>
+        <date>2014 </date>
+        <price>23,15</price>
+        <url>https://www.dr.com.tr/kitap/simulakrlar-ve-simulasyon/felsefe/felsefe-bilimi/urunno=0000000135283</url>
+        </book>
+    
+        <book>
+       <title>Ayın Öteki Yüzü</title>
+        <author>Claude Levi-Strauss  </author>
+        <publisher>Everest Yayınları</publisher>
+        <isbn>9786051852584  </isbn>
+        <date>2018 </date>
+        <price>21,30</price>
+        <url>https://www.dr.com.tr/kitap/ayin-oteki-yuzu/edebiyat/denemeyazin/urunno=0001755460001</url>
+        </book>
+    
+        <book>
+       <title>Ben Bir Kediyim</title>
+        <author>Natsume Soseki  </author>
+        <publisher>Ötüken Neşriyat</publisher>
+        <isbn>9786051557120  </isbn>
+        <date>2018 </date>
+        <price>37,04</price>
+        <url>https://www.dr.com.tr/Kitap/Gundelik-Seylerin-Tasarimi/Sanat-Tasarim/Diger-Sanatlar/urunno=0001768193001</url>
+        </book>
+    
+        <book>
+       <title>Gündelik Şeylerin Tasarımı</title>
+        <author>Donald A. Norman  </author>
+        <publisher>Tübitak Yayınları</publisher>
+        <isbn> 9786053121527  </isbn>
+        <date>2018 </date>
+        <price>21,76</price>
+        <url></url>
+        </book>
+    
+        <book>
+       <title>Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers</title>
+        <author>Alexander Osterwalder</author>
+        <author> Yves Pigneur</author>
+        <publisher>John Wiley and Sons</publisher>
+        <isbn>978-0470876411  </isbn>
+        <date>2010 </date>
+        <price></price>
+        <url>https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417</url>
+        </book>
+    
+        <book>
+       <title>Gönül</title>
+        <author>Natsume Soseki  </author>
+        <publisher>Maya Kitap</publisher>
+        <isbn>9786059902984  </isbn>
+        <date>2018 </date>
+        <price>23,15</price>
+        <url>https://www.idefix.com/Kitap/Gonul/Edebiyat/Roman/Dunya-Roman/urunno=0001787707001</url>
+        </book>
+    
+        <book>
+       <title>Milletler ve Milliyetçilik</title>
+        <author>E. J. Hosbawm  </author>
+        <publisher>Ayrıntı Yayınları</publisher>
+        <isbn>9789755390338  </isbn>
+        <date>1995 </date>
+        <price>20,37</price>
+        <url>https://www.idefix.com/Kitap/Milletler-Ve-Milliyetcilik/Arastirma-Tarih/Tarih/Dunya-Tarihi/urunno=0000000065343</url>
+        </book>
+    
+        <book>
+       <title>The Gutenberg Galaxy</title>
+        <author> Marshall McLuhan  </author>
+        <publisher>University of Toronto Press</publisher>
+        <isbn>978-1442612693  </isbn>
+        <date>2011</date>
+        <price>38.95</price>
+        <url>https://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X/</url>
+        </book>
+    
+        <book>
+       <title>Raşomon ve Diğer Öyküler</title>
+        <author>Ryunosuke Akutagawa  </author>
+        <publisher>Boğaziçi Üniversitesi Yayınevi</publisher>
+        <isbn>9786054238323  </isbn>
+        <date>2010 </date>
+        <price>23,15</price>
+        <url>https://www.idefix.com/Kitap/Rasomon-Ve-Diger-Oykuler/Edebiyat/Dunya-Oyku/urunno=0000000340634</url>
+        </book>
+    
+        <book>
+       <title>Kanını Satan Adam</title>
+        <author>Yu Hua  </author>
+        <publisher>Jaguar Kitap</publisher>
+        <isbn>9786056840531  </isbn>
+        <date>2018 </date>
+        <price>24,08</price>
+        <url>https://www.idefix.com/Kitap/Kanini-Satan-Adam/Edebiyat/Roman/Dunya-Roman/urunno=0001776437001</url>
+        </book>
+    
+        <book>
+       <title>Mor Bir Serserinin Gezi Notları</title>
+        <author>Osamu Dazai  </author>
+        <publisher>Dedalus</publisher>
+        <isbn>9786059203821 </isbn>
+        <date>2018 </date>
+        <price>18,52</price>
+        <url>https://www.kitapyurdu.com/kitap/mor-bir-serserinin-gezi-notlari/464813.html</url>
+        </book>
+    
+        <book>
+       <title>Things Chinese: Antiques, Crafts, Collectibles</title>
+        <author>Ronald G. Knapp  </author>
+        <publisher>Tuttle Publishing</publisher>
+        <isbn>978-0804841870  </isbn>
+        <date>2011 </date>
+        <price>24,95</price>
+        <url>https://www.amazon.com/Things-Chinese-Antiques-Crafts-Collectibles/dp/080484187X/</url>
+        </book>
+    
+        <book>
+       <title>Japanese Design: Art, Aesthetics & Culture </title>
+        <author>Patricia J. Graham  </author>
+        <publisher>Tuttle Publishing</publisher>
+        <isbn>978-4805312506  </isbn>
+        <date>2014 </date>
+        <price>24,95</price>
+        <url>https://www.amazon.com/Japanese-Design-Art-Aesthetics-Culture/dp/4805312505</url>
+        </book>
+    
+</catalogue>
+
+    
